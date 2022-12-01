@@ -1,7 +1,8 @@
-Reporting-forecasting
+# Reporting-forecasting
+
 This project is a part of the Quantitative Analysis Course.
 
-#### -- Project Status: Active
+#### Status: Active
 
 ### Methods Used
 * Inferential Statistics

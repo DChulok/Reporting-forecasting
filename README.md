@@ -5,7 +5,7 @@ This project is a part of the Quantitative Analysis Course.
 #### Status: finished
 
 ## Project Description
-The task is to predict financial reports of oil-gas sector companies based on the historical reporting data. For a full project description see [link](https://www.kaggle.com/datasets/jarbol/oil-gas-predict).
+The task is to predict financial reports of oil-gas sector companies based on the historical reporting data. For the full project description see the [link](https://www.kaggle.com/datasets/jarbol/oil-gas-predict).
 
 ### Technologies
 * Python
